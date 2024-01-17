@@ -1,2 +1,2 @@
-# Instagram_clone
-Created with CodeSandbox
+Rock vs Mine Prediction Project
+Explore the fascinating world of sonar signal classification with the Rock vs Mine Prediction project. Leveraging machine learning, this repository contains code for training and evaluating models that distinguish between rocks and mines using sonar data. Dive into the realm of feature engineering, model selection, and performance metrics to enhance your understanding of underwater object detection. Contribute, experiment, and uncover the depths of predictive analytics in oceanic exploration. #MachineLearning #SonarClassification #DataScience #PredictiveAnalytics
